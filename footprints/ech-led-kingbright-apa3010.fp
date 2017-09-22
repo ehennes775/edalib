@@ -1,4 +1,4 @@
-Element["" "LED, Kingbright, APA3010 series" "DS1" "" 0.0mm 0.0mm -3.75mm 1.9mm 0 100 ""]
+Element["" "LED" "DS1" "" 0.0mm 0.0mm -3.75mm 1.9mm 0 100 ""]
 (
 	Pad[-2.0mm -0.0mm -2.0mm 0.0mm 1.5mm 0.5mm  1.75mm "1" "1" "square"]
 	Pad[2.0mm 0.0mm 2.0mm 0.0mm 1.5mm 0.5mm  1.75mm "2" "2" "square"]
@@ -18,4 +18,5 @@ Element["" "LED, Kingbright, APA3010 series" "DS1" "" 0.0mm 0.0mm -3.75mm 1.9mm 
 	Attribute("copyright" "Copyright (C) 2017 Edward Hennessy")
 	Attribute("dist-license" "GPL")
 	Attribute("use-license" "Unlimited")
+	Attribute("description" "LED, Kingbright, APA3010 series")
 	)

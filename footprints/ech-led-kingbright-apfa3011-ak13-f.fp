@@ -1,4 +1,4 @@
-Element["" "LED, Kingbright, APFA3011-AK13/F" "DS1" "" 0.0mm 0.0mm -2.1mm 1.5mm 0 100 ""]
+Element["" "LED" "DS1" "" 0.0mm 0.0mm -2.1mm 1.5mm 0 100 ""]
 (
 	Pad[-1.4mm -0.15mm -1.4mm 0.15mm 0.6mm 0.5mm  0.85mm "6" "6" "square"]
 	Pad[-0.75mm 0.15mm -0.75mm 0.65mm 0.3mm 0.5mm 0.55mm "5" "5" "square"]
@@ -18,4 +18,5 @@ Element["" "LED, Kingbright, APFA3011-AK13/F" "DS1" "" 0.0mm 0.0mm -2.1mm 1.5mm 
 	Attribute("copyright" "Copyright (C) 2017 Edward C Hennessy")
 	Attribute("dist-license" "GPL")
 	Attribute("use-license" "Unlimited")
+	Attribute("description" "LED, Kingbright, APFA3011-AK13/F")
 	)
