@@ -1,4 +1,3 @@
-
 Element["" "Transistor" "Q1" "" 36614 43307 -6mm 4.4mm 0 100 ""]
 (
 	Pad[2mm 0mm 2mm 0mm 7mm 0.5mm 7.15mm "D" "D" "square"]
