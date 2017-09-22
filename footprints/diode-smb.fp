@@ -1,4 +1,3 @@
-
 Element["" "Diode" "D1" "" 0 0 -4.5mm 2.87mm 0 100 ""]
 (
 	Pad[-2.25mm 0mm -2.05mm 0mm 2.3mm 0.5mm 2.45mm "1" "1" "square"]
