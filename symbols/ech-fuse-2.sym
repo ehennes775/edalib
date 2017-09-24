@@ -42,7 +42,7 @@ numslots=0
 T 510 1360 8 10 0 0 0 3 1
 footprint=$(Footprint)
 T 510 1560 8 10 0 0 0 3 1
-footprint=Fuse, Horizontal
+description=Fuse, Horizontal
 T 510 1760 8 10 0 0 0 3 1
 device=FUSE
 T 510 1960 8 10 0 0 0 3 1

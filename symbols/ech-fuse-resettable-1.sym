@@ -55,7 +55,7 @@ numslots=0
 T -90 760 8 10 0 0 0 6 1
 footprint=$(Footprint)
 T -90 960 8 10 0 0 0 6 1
-footprint=Fuse, Resettable, Horizontal
+description=Fuse, Resettable, Horizontal
 T -90 1160 8 10 0 0 0 6 1
 device=FUSE
 T -90 1360 8 10 0 0 0 6 1
