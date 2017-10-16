@@ -1,6 +1,6 @@
 Element["" "Bumper" "H1" "" 0.0mm 0.0mm -4.4mm 4.8mm 0 100 ""]
 (
-	ElementArc[0.0mm 0.0m 4.4mm 4.4mm 0 360 0.3mm]
+	ElementArc[0.0mm 0.0mm 4.4mm 4.4mm 0 360 0.3mm]
 
 	Attribute("author" "Edward Hennessy")
 	Attribute("copyright" "(C) 2017 Edward Hennessy")
