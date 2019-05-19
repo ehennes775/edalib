@@ -1,0 +1,11 @@
+type=symbol
+software=gschem
+license/dist=GPL
+license/use=unlimited
+author=Edward Hennessy
+device=SCR
+description=Thyristor, Horizontal
+symbol/orientation=horizontal
+class=thyristor
+copyright=(C) 2015 Edward Hennessy
+pins=3

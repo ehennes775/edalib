@@ -1,0 +1,32 @@
+v 20150930 2
+P 200 0 200 300 1 0 0
+{
+T 250 0 5 10 0 0 90 8 1
+pintype=pas
+T 250 205 5 10 0 1 90 8 1
+pinlabel=1
+T 150 205 5 10 0 1 90 6 1
+pinnumber=1
+T 150 0 5 10 0 0 90 6 1
+pinseq=1
+}
+V 200 500 125 3 10 1 0 -1 -1 0 -1 -1 -1 -1 -1
+T 195 994 8 10 1 1 0 3 1
+refdes=MTG?
+T 195 1394 8 10 0 0 0 3 1
+footprint=mounting-hole-m4-plated.fp
+V 200 500 200 3 10 1 0 -1 -1 0 -1 -1 -1 -1 -1
+T 195 1800 8 10 0 0 0 3 1
+nobom=1
+T 195 2750 8 10 0 0 0 3 1
+author=Edward Hennessy
+T 195 2350 8 10 0 0 0 3 1
+dist-license=GPL
+T 195 2150 8 10 0 0 0 3 1
+use-license=Unlimited
+T 195 1600 8 10 0 0 0 3 1
+description=Mounting Hole, M4, Plated
+T 195 2550 8 10 0 0 0 3 1
+copyright=(C) 2015 Edward Hennessy
+T 195 794 9 10 1 1 0 3 1
+M4

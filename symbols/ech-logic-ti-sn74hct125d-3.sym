@@ -1,0 +1,44 @@
+v 20150930 2
+P 700 1900 700 1600 1 0 0
+{
+T 800 2000 5 10 0 0 90 2 1
+pintype=pwr
+T 600 2000 5 10 0 0 90 0 1
+pinseq=14
+T 700 1545 9 10 1 1 90 7 1
+pinlabel=VCC
+T 650 1645 5 10 1 1 90 0 1
+pinnumber=14
+}
+P 700 100 700 400 1 0 0
+{
+T 700 455 9 10 1 1 90 1 1
+pinlabel=GND
+T 800 0 5 10 0 0 90 8 1
+pintype=pwr
+T 600 0 5 10 0 0 90 6 1
+pinseq=7
+T 650 355 5 10 1 1 90 6 1
+pinnumber=7
+}
+T -5 1645 8 10 1 1 0 0 1
+refdes=U?
+T 1095 145 8 10 1 1 0 2 1
+package=SOIC14N
+T 1100 350 5 10 1 1 0 2 1
+value=SN74HCT125D
+B 0 400 1400 1200 3 10 1 0 -1 -1 0 -1 -1 -1 -1 -1
+T 1195 2195 8 10 0 0 0 0 1
+device=IC
+T 1195 2500 8 10 0 0 0 0 1
+use-license=Unlimited
+T 1195 2700 8 10 0 0 0 0 1
+dist-license=GPL
+T 1195 2900 8 10 0 0 0 0 1
+copyright=(C) 2015 Edward Hennessy
+T 1195 3100 8 10 0 0 0 0 1
+author=Edward Hennessy
+T 1195 1995 8 10 0 0 0 0 1
+description=Quadruple Bus Buffer Gates with 3-State Outputs
+T 1195 1795 8 10 0 0 0 0 1
+footprint=ic-soic-14-n.fp

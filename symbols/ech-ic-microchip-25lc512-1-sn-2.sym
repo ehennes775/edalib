@@ -1,0 +1,48 @@
+v 20170226 2
+P 500 0 500 300 1 0 0
+{
+T 550 -100 5 10 0 0 90 8 1
+pintype=pwr
+T 500 358 9 10 1 1 90 1 1
+pinlabel=VSS
+T 450 208 5 10 1 1 90 6 1
+pinnumber=4
+T 450 -100 5 10 0 0 90 6 1
+pinseq=4
+}
+P 500 1800 500 1500 1 0 0
+{
+T 550 1900 5 10 0 0 90 2 1
+pintype=pwr
+T 500 1442 9 10 1 1 90 7 1
+pinlabel=VCC
+T 450 1592 5 10 1 1 90 0 1
+pinnumber=8
+T 450 1900 5 10 0 0 90 0 1
+pinseq=8
+}
+B 0 300 1000 1200 3 10 1 0 -1 -1 0 -1 -1 -1 -1 -1
+T 1095 1045 8 10 1 1 0 1 1
+package=SOIC-8
+T 1095 1245 8 10 1 1 0 1 1
+value=25LC512
+T 1095 1445 8 10 1 1 0 1 1
+refdes=U?
+T -105 45 8 10 0 0 0 6 1
+numslots=0
+T -105 245 8 10 0 0 0 6 1
+footprint=ic-soic-8-n.fp
+T -105 445 8 10 0 0 0 6 1
+description=IC, EEPROM, 512 kb, SPI
+T -105 645 8 10 0 0 0 6 1
+device=EEPROM
+T -105 845 8 10 0 0 0 6 1
+class=EEPROM
+T -105 1195 8 10 0 0 0 7 1
+use-license=Unlimited
+T -105 1395 8 10 0 0 0 7 1
+dist-license=GPL
+T -95 1595 8 10 0 0 0 7 1
+copyright=(C) 2018 Edward Hennessy
+T -105 1795 8 10 0 0 0 7 1
+author=Edward Hennessy

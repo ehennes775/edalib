@@ -1,0 +1,92 @@
+v 20170226 2
+P 0 2100 300 2100 1 0 0
+{
+T -1000 2150 5 10 0 0 0 6 1
+pintype=in
+T 358 2092 9 10 1 1 0 1 1
+pinlabel=SI
+T 208 2142 5 10 1 1 0 6 1
+pinnumber=5
+T -100 2150 5 10 0 0 0 6 1
+pinseq=5
+}
+P 0 1500 300 1500 1 0 0
+{
+T -1000 1550 5 10 0 0 0 6 1
+pintype=in
+T 358 1492 9 10 1 1 0 1 1
+pinlabel=\_HOLD\_
+T 208 1542 5 10 1 1 0 6 1
+pinnumber=7
+T -100 1550 5 10 0 0 0 6 1
+pinseq=7
+}
+P 0 1200 300 1200 1 0 0
+{
+T -1000 1250 5 10 0 0 0 6 1
+pintype=in
+T 358 1192 9 10 1 1 0 1 1
+pinlabel=\_WP\_
+T 208 1242 5 10 1 1 0 6 1
+pinnumber=3
+T -100 1250 5 10 0 0 0 6 1
+pinseq=3
+}
+P 0 900 300 900 1 0 0
+{
+T -1000 950 5 10 0 0 0 6 1
+pintype=in
+T 358 892 9 10 1 1 0 1 1
+pinlabel=\_CS\_
+T 208 942 5 10 1 1 0 6 1
+pinnumber=1
+T -100 950 5 10 0 0 0 6 1
+pinseq=1
+}
+P 0 600 300 600 1 0 0
+{
+T -1000 650 5 10 0 0 0 6 1
+pintype=in
+T 358 592 9 10 1 1 0 1 1
+pinlabel=SCK
+T 208 642 5 10 1 1 0 6 1
+pinnumber=6
+T -100 650 5 10 0 0 0 6 1
+pinseq=6
+}
+P 1600 2100 1300 2100 1 0 0
+{
+T 2600 2150 5 10 0 0 0 0 1
+pintype=out
+T 1242 2092 9 10 1 1 0 7 1
+pinlabel=SO
+T 1392 2142 5 10 1 1 0 0 1
+pinnumber=2
+T 1700 2150 5 10 0 0 0 0 1
+pinseq=2
+}
+B 300 400 1000 1900 3 10 1 0 -1 -1 0 -1 -1 -1 -1 -1
+T 295 145 8 10 1 1 0 2 1
+package=SOIC-8
+T 295 345 8 10 1 1 0 2 1
+value=25LC512
+T 295 2345 8 10 1 1 0 0 1
+refdes=U?
+T 295 2745 8 10 0 0 0 1 1
+numslots=0
+T 295 2945 8 10 0 0 0 1 1
+footprint=ic-soic-8-n.fp
+T 295 3145 8 10 0 0 0 1 1
+description=IC, EEPROM, 512 kb, SPI
+T 295 3345 8 10 0 0 0 1 1
+device=EEPROM
+T 295 3545 8 10 0 0 0 1 1
+class=EEPROM
+T 295 3895 8 10 0 0 0 1 1
+use-license=Unlimited
+T 295 4095 8 10 0 0 0 1 1
+dist-license=GPL
+T 305 4295 8 10 0 0 0 1 1
+copyright=(C) 2018 Edward Hennessy
+T 295 4495 8 10 0 0 0 1 1
+author=Edward Hennessy

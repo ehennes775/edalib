@@ -1,0 +1,114 @@
+v 20170226 2
+P 2500 11100 2200 11100 1 0 0
+{
+T 4700 11150 5 10 0 0 0 6 1
+pintype=pas
+T 3500 11150 5 10 0 0 0 6 1
+pinseq=4
+T 2142 11092 9 10 1 1 0 7 1
+pinlabel=GPB3
+T 2292 11142 5 10 1 1 0 0 1
+pinnumber=4
+}
+P 0 11100 300 11100 1 0 0
+{
+T -2200 11150 5 10 0 0 0 0 1
+pintype=pas
+T -1000 11150 5 10 0 0 0 0 1
+pinseq=8
+T 358 11092 9 10 1 1 0 1 1
+pinlabel=GPB7
+T 208 11142 5 10 1 1 0 6 1
+pinnumber=8
+}
+P 0 7600 300 7600 1 0 0
+{
+T -2200 7650 5 10 0 0 0 0 1
+pintype=pas
+T -1000 7650 5 10 0 0 0 0 1
+pinseq=7
+T 358 7592 9 10 1 1 0 1 1
+pinlabel=GPB6
+T 208 7642 5 10 1 1 0 6 1
+pinnumber=7
+}
+P 0 4100 300 4100 1 0 0
+{
+T -2200 4150 5 10 0 0 0 0 1
+pintype=pas
+T -1000 4150 5 10 0 0 0 0 1
+pinseq=6
+T 358 4092 9 10 1 1 0 1 1
+pinlabel=GPB5
+T 208 4142 5 10 1 1 0 6 1
+pinnumber=6
+}
+P 0 600 300 600 1 0 0
+{
+T -2200 650 5 10 0 0 0 0 1
+pintype=pas
+T -1000 650 5 10 0 0 0 0 1
+pinseq=5
+T 358 592 9 10 1 1 0 1 1
+pinlabel=GPB4
+T 208 642 5 10 1 1 0 6 1
+pinnumber=5
+}
+P 2500 7600 2200 7600 1 0 0
+{
+T 4700 7650 5 10 0 0 0 6 1
+pintype=pas
+T 3500 7650 5 10 0 0 0 6 1
+pinseq=3
+T 2142 7592 9 10 1 1 0 7 1
+pinlabel=GPB2
+T 2292 7642 5 10 1 1 0 0 1
+pinnumber=3
+}
+P 2500 4100 2200 4100 1 0 0
+{
+T 4700 4150 5 10 0 0 0 6 1
+pintype=pas
+T 3500 4150 5 10 0 0 0 6 1
+pinseq=2
+T 2142 4092 9 10 1 1 0 7 1
+pinlabel=GPB1
+T 2292 4142 5 10 1 1 0 0 1
+pinnumber=2
+}
+P 2500 600 2200 600 1 0 0
+{
+T 4700 650 5 10 0 0 0 6 1
+pintype=pas
+T 3500 650 5 10 0 0 0 6 1
+pinseq=1
+T 2142 592 9 10 1 1 0 7 1
+pinlabel=GPB0
+T 2292 642 5 10 1 1 0 0 1
+pinnumber=1
+}
+B 300 400 1900 10900 3 10 1 0 -1 -1 0 -1 -1 -1 -1 -1
+T 300 11350 8 10 1 1 0 0 1
+refdes=U?
+T 300 350 8 10 1 1 0 2 1
+value=MCP23S17-E/SS
+T 300 150 8 10 1 1 0 2 1
+package=SSOP-28
+T 295 13400 8 10 0 0 0 1 1
+description=IC, Port Expander, Microchip MCP23S17, SSOP
+T 295 13200 8 10 0 0 0 1 1
+footprint=SSOP-28
+T 295 12500 8 10 0 0 0 1 1
+author=Edward Hennessy
+T 295 12300 8 10 0 0 0 1 1
+copyright=(C) 2018 Edward Hennessy
+T 295 12100 8 10 0 0 0 1 1
+dist-license=GPL
+T 295 11900 8 10 0 0 0 1 1
+use-license=Unlimited
+T 295 13600 8 10 0 0 0 1 1
+device=IC
+T 295 13800 8 10 0 0 0 1 1
+class=PortExpander
+T 295 13000 8 10 0 0 0 1 1
+numslots=0

@@ -1,0 +1,12 @@
+type=symbol
+software=gschem
+license/dist=GPL
+license/use=unlimited
+author=Edward Hennessy
+device=RESISTOR
+description=Resistor
+copyright=(C) 2014 Edward Hennessy
+description=Resistor, Horizontal
+symbol/orientation=horizontal
+class=resistor
+pins=2

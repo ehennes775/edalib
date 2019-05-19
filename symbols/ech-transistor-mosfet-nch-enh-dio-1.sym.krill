@@ -1,0 +1,9 @@
+type=symbol
+software=gschem
+license/dist=GPL
+license/use=unlimited
+author=Edward Hennessy
+device=MOSFET
+copyright=(C) 2015 Edward Hennessy
+class=transistor
+pins=3

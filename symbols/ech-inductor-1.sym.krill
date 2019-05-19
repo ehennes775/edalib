@@ -1,0 +1,11 @@
+type=symbol
+software=gschem
+license/dist=GPL
+license/use=unlimited
+author=Edward Hennessy
+import=gedasymbols
+class=inductor
+copyright=(C) 2017 Edward Hennessy
+symbol/orientation=vertical
+pins=2
+

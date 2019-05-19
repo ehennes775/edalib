@@ -1,0 +1,12 @@
+type=symbol
+software=gschem
+license/dist=GPL
+license/use=unlimited
+author=Edward Hennessy
+description=High Accuracy ANYCAP® 200 mA Low Dropout Linear Regulator
+class=regulator
+copyright=(C) 2015 Edward Hennessy
+manufacturer/url=http://www.analog.com/en/products/power-management/linear-regulators/adp3303.html
+documentation=http://www.analog.com/media/en/technical-documentation/data-sheets/ADP3303.pdf
+pins=8
+manufacturer=Analog Devices

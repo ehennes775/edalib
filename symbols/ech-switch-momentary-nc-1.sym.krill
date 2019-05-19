@@ -1,0 +1,11 @@
+type=symbol
+software=gschem
+license/dist=GPL
+license/use=unlimited
+author=Edward Hennessy
+device=SWITCH
+description=Switch, Pushbutton, Momentary, NC
+copyright=(C) 2017 Edward Hennessy
+symbol/orientation=vertical
+class=switch
+pins=2

@@ -1,0 +1,13 @@
+type=symbol
+software=gschem
+license/dist=GPL
+license/use=unlimited
+author=Edward Hennessy
+device=IC
+description=Dual 4- to 1-Line Selector/Multiplexer
+class=logic, multiplexer
+manufacturer/url=http://www.ti.com/product/CD74HCT153
+documentation=http://www.ti.com/lit/ds/symlink/cd74hct153.pdf
+copyright=(C) 2015 Edward Hennessy
+pins=16
+manufacturer=Texas Instruments

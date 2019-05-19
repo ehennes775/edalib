@@ -1,0 +1,10 @@
+type=symbol
+software=gschem
+license/dist=GPL
+license/use=unlimited
+author=Edward Hennessy
+device=SWITCH
+description=Switch, DIP, 4 Position
+copyright=(C) 2017 Edward Hennessy
+class=switch
+pins=8

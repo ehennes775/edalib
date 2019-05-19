@@ -1,0 +1,12 @@
+type=symbol
+software=gschem
+license/dist=GPL
+license/use=unlimited
+author=Edward Hennessy
+description=IC
+class=regulator
+copyright=(C) 2015 Edward Hennessy
+manufacturer/url=http://www.ti.com/product/UA78M05
+documentation=http://www.ti.com/lit/ds/symlink/ua78m05.pdf
+pins=4
+manufacturer=Texas Instruments

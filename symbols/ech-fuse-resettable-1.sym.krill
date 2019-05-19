@@ -1,0 +1,10 @@
+type=symbol
+software=gschem
+license/dist=GPL
+license/use=unlimited
+author=Edward Hennessy
+device=RESETTABLEFUSE
+copyright=(C) 2014 Edward Hennessy
+class=fuse
+description=Fuse, Resettable, Vertical
+symbol/orientation=vertical
