@@ -1,0 +1,12 @@
+type=symbol
+software=gschem
+license/dist=GPL
+license/use=unlimited
+author=Edward Hennessy
+device=CAPACITOR
+description=Capacitor, Non-polarized, Vertical
+class=capacitor
+copyright=(C) 2014 Edward Hennessy
+pins=2
+symbol/orientation=vertical
+

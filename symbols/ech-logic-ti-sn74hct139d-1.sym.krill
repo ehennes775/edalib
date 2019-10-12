@@ -1,0 +1,13 @@
+type=symbol
+software=gschem
+license/dist=GPL
+license/use=unlimited
+author=Edward Hennessy
+device=IC
+description=Dual 2-Line to 4-Line Decoders/Demultiplexers
+class=logic, decoder, demultiplexer
+manufacturer/url=http://www.ti.com/product/sn74hct139
+documentation=http://www.ti.com/lit/ds/symlink/sn74hct139.pdf
+copyright=(C) 2015 Edward Hennessy
+pins=16
+manufacturer=Texas Instruments

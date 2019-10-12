@@ -1,0 +1,65 @@
+v 20111231 2
+P 0 2400 300 2400 1 0 0
+{
+T -1200 2400 5 10 0 0 0 0 1
+pintype=pas
+T -2100 2400 5 10 0 0 0 0 1
+pinseq=6
+T 355 2395 5 10 1 1 0 1 1
+pinlabel=UCB0SOMI
+T 205 2445 5 10 1 1 0 6 1
+pinnumber=14
+}
+P 0 2100 300 2100 1 0 0
+{
+T -1200 2100 5 10 0 0 0 0 1
+pintype=pas
+T -2100 2100 5 10 0 0 0 0 1
+pinseq=9
+T 355 2095 5 10 1 1 0 1 1
+pinlabel=UCB0CLK
+T 205 2145 5 10 1 1 0 6 1
+pinnumber=7
+}
+P 0 1500 300 1500 1 0 0
+{
+T -1200 1500 5 10 0 0 0 0 1
+pintype=pas
+T -2100 1500 5 10 0 0 0 0 1
+pinseq=9
+T 355 1495 5 10 1 1 0 1 1
+pinlabel=P2.5
+T 205 1545 5 10 1 1 0 6 1
+pinnumber=13
+}
+P 0 600 300 600 1 0 0
+{
+T -1200 600 5 10 0 0 0 0 1
+pintype=pas
+T -2100 600 5 10 0 0 0 0 1
+pinseq=9
+T 355 595 5 10 1 1 0 1 1
+pinlabel=P2.1
+T 205 645 5 10 1 1 0 6 1
+pinnumber=9
+}
+P 0 1200 300 1200 1 0 0
+{
+T -1200 1200 5 10 0 0 0 0 1
+pintype=pas
+T -2100 1200 5 10 0 0 0 0 1
+pinseq=9
+T 355 1195 5 10 1 1 0 1 1
+pinlabel=P2.0
+T 205 1245 5 10 1 1 0 6 1
+pinnumber=8
+}
+B 300 400 1500 2200 3 10 1 0 -1 -1 0 -1 -1 -1 -1 -1
+T 300 200 9 10 1 0 0 0 1
+MSP430G2403
+T 300 0 9 10 1 1 0 0 1
+footprint=TSSOP20
+T 295 2648 8 10 1 1 0 0 1
+refdes=U?
+T 300 400 8 10 0 1 0 0 1
+description=Mixed Signal Microcontroller

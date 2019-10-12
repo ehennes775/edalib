@@ -1,0 +1,114 @@
+v 20170226 2
+B 300 400 1900 10900 3 10 1 0 -1 -1 0 -1 -1 -1 -1 -1
+T 300 11350 8 10 1 1 0 0 1
+refdes=U?
+T 300 350 8 10 1 1 0 2 1
+value=MCP23S17-E/SS
+T 300 150 8 10 1 1 0 2 1
+package=SSOP-28
+T 295 13400 8 10 0 0 0 1 1
+description=IC, Port Expander, Microchip MCP23S17, SSOP
+T 295 13200 8 10 0 0 0 1 1
+footprint=SSOP-28
+T 295 12500 8 10 0 0 0 1 1
+author=Edward Hennessy
+T 295 12300 8 10 0 0 0 1 1
+copyright=(C) 2018 Edward Hennessy
+T 295 12100 8 10 0 0 0 1 1
+dist-license=GPL
+T 295 11900 8 10 0 0 0 1 1
+use-license=Unlimited
+T 295 13600 8 10 0 0 0 1 1
+device=IC
+T 295 13800 8 10 0 0 0 1 1
+class=PortExpander
+T 295 13000 8 10 0 0 0 1 1
+numslots=0
+P 2500 11100 2200 11100 1 0 0
+{
+T 2400 11150 5 10 0 0 0 6 1
+pintype=pas
+T 2400 11150 5 10 0 0 0 6 1
+pinseq=25
+T 2142 11092 9 10 1 1 0 7 1
+pinlabel=GPA4
+T 2292 11142 5 10 1 1 0 0 1
+pinnumber=25
+}
+P 0 11100 300 11100 1 0 0
+{
+T 100 11150 5 10 0 0 0 0 1
+pintype=pas
+T 100 11150 5 10 0 0 0 0 1
+pinseq=21
+T 358 11092 9 10 1 1 0 1 1
+pinlabel=GPA0
+T 208 11142 5 10 1 1 0 6 1
+pinnumber=21
+}
+P 0 7600 300 7600 1 0 0
+{
+T 100 7650 5 10 0 0 0 0 1
+pintype=pas
+T 100 7650 5 10 0 0 0 0 1
+pinseq=22
+T 358 7592 9 10 1 1 0 1 1
+pinlabel=GPA1
+T 208 7642 5 10 1 1 0 6 1
+pinnumber=22
+}
+P 0 4100 300 4100 1 0 0
+{
+T 100 4150 5 10 0 0 0 0 1
+pintype=pas
+T 100 4150 5 10 0 0 0 0 1
+pinseq=23
+T 358 4092 9 10 1 1 0 1 1
+pinlabel=GPA2
+T 208 4142 5 10 1 1 0 6 1
+pinnumber=23
+}
+P 0 600 300 600 1 0 0
+{
+T 100 650 5 10 0 0 0 0 1
+pintype=pas
+T 100 650 5 10 0 0 0 0 1
+pinseq=24
+T 358 592 9 10 1 1 0 1 1
+pinlabel=GPA3
+T 208 642 5 10 1 1 0 6 1
+pinnumber=24
+}
+P 2500 7600 2200 7600 1 0 0
+{
+T 2400 7650 5 10 0 0 0 6 1
+pintype=pas
+T 2400 7650 5 10 0 0 0 6 1
+pinseq=26
+T 2142 7592 9 10 1 1 0 7 1
+pinlabel=GPA5
+T 2292 7642 5 10 1 1 0 0 1
+pinnumber=26
+}
+P 2500 4100 2200 4100 1 0 0
+{
+T 2400 4150 5 10 0 0 0 6 1
+pintype=pas
+T 2400 4150 5 10 0 0 0 6 1
+pinseq=27
+T 2142 4092 9 10 1 1 0 7 1
+pinlabel=GPA6
+T 2292 4142 5 10 1 1 0 0 1
+pinnumber=27
+}
+P 2500 600 2200 600 1 0 0
+{
+T 2400 650 5 10 0 0 0 6 1
+pintype=pas
+T 2400 650 5 10 0 0 0 6 1
+pinseq=28
+T 2142 592 9 10 1 1 0 7 1
+pinlabel=GPA7
+T 2292 642 5 10 1 1 0 0 1
+pinnumber=28
+}

@@ -1,0 +1,164 @@
+v 20111231 2
+P 600 5700 300 5700 1 0 0
+{
+T 600 5700 5 10 0 0 0 0 1
+pintype=pas
+T 395 5745 5 10 0 1 0 0 1
+pinnumber=1
+T 600 5700 5 10 0 0 0 0 1
+pinseq=1
+T 145 5695 5 10 1 1 0 4 1
+pinlabel=1
+}
+P 600 5300 300 5300 1 0 0
+{
+T 600 5300 5 10 0 0 0 0 1
+pintype=pas
+T 600 5300 5 10 0 0 0 0 1
+pinseq=2
+T 395 5345 5 10 0 1 0 0 1
+pinnumber=2
+T 145 5295 5 10 1 1 0 4 1
+pinlabel=2
+}
+P 600 4900 300 4900 1 0 0
+{
+T 600 4900 5 10 0 0 0 0 1
+pintype=pas
+T 600 4900 5 10 0 0 0 0 1
+pinseq=3
+T 395 4945 5 10 0 1 0 0 1
+pinnumber=3
+T 145 4895 5 10 1 1 0 4 1
+pinlabel=3
+}
+P 600 4500 300 4500 1 0 0
+{
+T 600 4500 5 10 0 0 0 0 1
+pintype=pas
+T 600 4500 5 10 0 0 0 0 1
+pinseq=4
+T 395 4545 5 10 0 1 0 0 1
+pinnumber=4
+T 145 4495 5 10 1 1 0 4 1
+pinlabel=4
+}
+P 600 4100 300 4100 1 0 0
+{
+T 600 4100 5 10 0 0 0 0 1
+pintype=pas
+T 600 4100 5 10 0 0 0 0 1
+pinseq=5
+T 395 4145 5 10 0 1 0 0 1
+pinnumber=5
+T 145 4095 5 10 1 1 0 4 1
+pinlabel=5
+}
+P 600 3700 300 3700 1 0 0
+{
+T 600 3700 5 10 0 0 0 0 1
+pintype=pas
+T 600 3700 5 10 0 0 0 0 1
+pinseq=6
+T 395 3745 5 10 0 1 0 0 1
+pinnumber=6
+T 145 3695 5 10 1 1 0 4 1
+pinlabel=6
+}
+P 600 3300 300 3300 1 0 0
+{
+T 600 3300 5 10 0 0 0 0 1
+pintype=pas
+T 600 3300 5 10 0 0 0 0 1
+pinseq=7
+T 395 3345 5 10 0 1 0 0 1
+pinnumber=7
+T 145 3295 5 10 1 1 0 4 1
+pinlabel=7
+}
+P 600 2900 300 2900 1 0 0
+{
+T 600 2900 5 10 0 0 0 0 1
+pintype=pas
+T 600 2900 5 10 0 0 0 0 1
+pinseq=8
+T 395 2945 5 10 0 1 0 0 1
+pinnumber=8
+T 145 2895 5 10 1 1 0 4 1
+pinlabel=8
+}
+P 600 2500 300 2500 1 0 0
+{
+T 600 2500 5 10 0 0 0 0 1
+pintype=pas
+T 600 2500 5 10 0 0 0 0 1
+pinseq=9
+T 395 2545 5 10 0 1 0 0 1
+pinnumber=9
+T 145 2495 5 10 1 1 0 4 1
+pinlabel=9
+}
+P 600 2100 300 2100 1 0 0
+{
+T 600 2100 5 10 0 0 0 0 1
+pintype=pas
+T 600 2100 5 10 0 0 0 0 1
+pinseq=10
+T 395 2145 5 10 0 1 0 0 1
+pinnumber=10
+T 145 2095 5 10 1 1 0 4 1
+pinlabel=10
+}
+P 600 1700 300 1700 1 0 0
+{
+T 600 1700 5 10 0 0 0 0 1
+pintype=pas
+T 600 1700 5 10 0 0 0 0 1
+pinseq=11
+T 395 1745 5 10 0 1 0 0 1
+pinnumber=11
+T 145 1695 5 10 1 1 0 4 1
+pinlabel=11
+}
+P 600 1300 300 1300 1 0 0
+{
+T 600 1300 5 10 0 0 0 0 1
+pintype=pas
+T 600 1300 5 10 0 0 0 0 1
+pinseq=12
+T 395 1345 5 10 0 1 0 0 1
+pinnumber=12
+T 145 1295 5 10 1 1 0 4 1
+pinlabel=12
+}
+P 600 900 300 900 1 0 0
+{
+T 600 900 5 10 0 0 0 0 1
+pintype=pas
+T 600 900 5 10 0 0 0 0 1
+pinseq=13
+T 395 945 5 10 0 1 0 0 1
+pinnumber=13
+T 145 895 5 10 1 1 0 4 1
+pinlabel=13
+}
+P 600 500 300 500 1 0 0
+{
+T 600 500 5 10 0 0 0 0 1
+pintype=pas
+T 600 500 5 10 0 0 0 0 1
+pinseq=14
+T 395 545 5 10 0 1 0 0 1
+pinnumber=14
+T 145 495 5 10 1 1 0 4 1
+pinlabel=14
+}
+B 0 300 300 5600 3 0 1 0 -1 -1 0 -1 -1 -1 -1 -1
+T -5 5995 8 10 1 1 0 0 1
+refdes=J?
+T 0 250 9 10 1 0 0 2 1
+70246-1004
+T -2 48 9 10 1 1 0 2 1
+footprint=CGRID-14
+T 0 300 9 10 0 1 0 0 1
+description=2.54mm Pitch C-Grid® Header, Low Profile, Dual Row, Vertical, Shrouded, 10 Circuits, 0.13µm Gold (Au) Selective Plating, Tin (Sn) PC Tail Plating

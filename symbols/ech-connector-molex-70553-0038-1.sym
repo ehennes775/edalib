@@ -1,0 +1,64 @@
+v 20150930 2
+P 700 1300 400 1300 1 0 0
+{
+T 1750 1300 5 10 0 0 0 1 1
+pintype=pas
+T 850 1300 5 10 0 0 0 1 1
+pinseq=1
+T 195 1295 9 10 1 1 0 4 1
+pinlabel=1
+T 495 1345 5 10 0 1 0 0 1
+pinnumber=1
+}
+P 700 1000 400 1000 1 0 0
+{
+T 1750 1000 5 10 0 0 0 1 1
+pintype=pas
+T 850 1000 5 10 0 0 0 1 1
+pinseq=2
+T 195 995 9 10 1 1 0 4 1
+pinlabel=2
+T 495 1045 5 10 0 1 0 0 1
+pinnumber=2
+}
+P 700 700 400 700 1 0 0
+{
+T 1750 700 5 10 0 0 0 1 1
+pintype=pas
+T 850 700 5 10 0 0 0 1 1
+pinseq=3
+T 195 695 9 10 1 1 0 4 1
+pinlabel=3
+T 495 745 5 10 0 1 0 0 1
+pinnumber=3
+}
+P 700 400 400 400 1 0 0
+{
+T 1750 400 5 10 0 0 0 1 1
+pintype=pas
+T 850 400 5 10 0 0 0 1 1
+pinseq=4
+T 195 395 9 10 1 1 0 4 1
+pinlabel=4
+T 495 445 5 10 0 1 0 0 1
+pinnumber=4
+}
+B 0 200 400 1300 3 10 1 0 -1 -1 0 -1 -1 -1 -1 -1
+T -5 1594 8 10 1 1 0 0 1
+refdes=J?
+T -5 -6 8 10 1 1 0 0 1
+footprint=70553-0038
+T -155 1500 8 10 0 0 0 7 1
+device=CONNECTOR
+T -155 1300 8 10 0 0 0 7 1
+description=2.54mm Pitch SL™ Header, Low Profile, Single Row, Right Angle, 3.05mm Pocket, Shrouded, 4 Circuits, Tin (Sn) Plating
+T -155 1100 8 10 0 0 0 7 1
+footprint=molex-70553-0036.fp
+T -155 800 8 10 0 0 0 7 1
+author=Edward Hennessy
+T -155 600 8 10 0 0 0 7 1
+copyright=(C) 2015 Edward Hennessy
+T -155 400 8 10 0 0 0 7 1
+dist-license=GPL
+T -155 200 8 10 0 0 0 7 1
+use-license=Unlimited

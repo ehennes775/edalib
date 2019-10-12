@@ -1,0 +1,44 @@
+v 20150930 2
+T 895 395 8 10 1 1 0 0 1
+refdes=U?
+T 895 195 8 10 1 1 0 0 1
+value=LMV324IDR
+T 895 -5 8 10 1 1 0 0 1
+package=SOIC14
+T 895 -205 8 10 0 0 0 0 1
+footprint=SOIC14
+T 895 1900 8 10 0 0 0 0 1
+author=Edward Hennessy
+T 895 1700 8 10 0 0 0 0 1
+copyright=(C) 2015 Edward Hennessy
+T 895 1500 8 10 0 0 0 0 1
+dist-license=GPL
+T 895 1300 8 10 0 0 0 0 1
+use-license=Unlimited
+P 500 1300 500 1000 1 0 0
+{
+T 450 1650 5 10 0 0 90 0 1
+pintype=pwr
+T 550 1195 9 10 0 1 90 2 1
+pinlabel=VCC
+T 450 1195 5 10 1 1 90 0 1
+pinnumber=4
+T 550 1650 5 10 0 0 90 2 1
+pinseq=1
+}
+P 500 100 500 400 1 0 0
+{
+T 450 -300 5 10 0 0 90 6 1
+pintype=pwr
+T 550 205 9 10 0 1 90 8 1
+pinlabel=GND
+T 450 205 5 10 1 1 90 6 1
+pinnumber=11
+T 550 -300 5 10 0 0 90 8 1
+pinseq=2
+}
+H 3 10 1 0 -1 -1 0 -1 -1 -1 -1 -1 4
+M 0,1300
+L 1000,700
+L 0,100
+z

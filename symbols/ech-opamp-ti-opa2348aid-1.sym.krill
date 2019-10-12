@@ -1,0 +1,14 @@
+type=symbol
+software=gschem
+license/dist=GPL
+license/use=unlimited
+author=Edward Hennessy
+device=OPAMP
+description=Operational Amplifier, CMOS, 1MHz, 45μA, Rail-to-Rail
+import=gedasymbols
+class=linear, opamp
+copyright=(C) 2015 Edward Hennessy
+manufacturer/url=www.ti.com/product/OPA2348
+documentation=http://www.ti.com/lit/ds/symlink/opa2348.pdf
+pins=8
+manufacturer=Texas Instruments

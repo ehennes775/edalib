@@ -1,0 +1,10 @@
+type=symbol
+software=gschem
+license/dist=GPL
+license/use=unlimited
+author=UNKNOWN
+class=opto, LED
+manufacturer/url=http://www.nichia.co.jp/en/product/led_product_data.html?type=%27NESM026D%27
+documentation=http://www.nichia.co.jp/specification/products/led_spec/NESM026DT-E(2803D).pdf
+pins=4
+manufacturer=Nichia

@@ -1,0 +1,12 @@
+type=symbol
+software=gschem
+license/dist=GPL
+license/use=unlimited
+author=Edward Hennessy
+description=2-A, Wide Input Range, Step-Down SWIFT™ Converter
+class=regulator
+copyright=(C) 2015 Edward Hennessy
+manufacturer/url=http://www.ti.com/product/tps5420
+documentation=http://www.ti.com/lit/ds/symlink/tps5420.pdf
+pins=8
+manufacturer=Texas Instruments

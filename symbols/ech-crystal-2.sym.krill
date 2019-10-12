@@ -1,0 +1,11 @@
+type=symbol
+software=gschem
+license/dist=GPL
+license/use=unlimited
+author=Edward Hennessy
+device=CRYSTAL
+description=Crystal, Horizontal
+class=crystal
+pins=2
+copyright=(C) 2017 Edward Hennessy
+

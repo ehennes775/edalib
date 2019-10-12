@@ -1,0 +1,46 @@
+v 20121203 2
+P 700 0 700 425 1 0 0
+{
+T 1150 150 5 10 0 0 90 8 1
+pintype=pas
+T 750 150 9 10 0 1 90 8 1
+pinlabel=3
+T 650 150 5 10 0 1 90 6 1
+pinnumber=3
+T 950 150 5 10 0 0 90 8 1
+pinseq=3
+}
+T 700 1100 8 10 1 1 0 3 1
+refdes=C?
+T 700 900 8 10 1 1 0 3 1
+value=$(Capacitance)
+T 700 700 8 10 1 1 0 3 1
+footprint=$(PackageName)
+T 1600 950 8 10 0 0 0 7 1
+device=CAPACITOR
+A 700 135 300 62 56 3 30 0 0 -1 -1
+T -600 50 8 10 0 1 0 0 1
+description=Capacitor
+A 700 860 300 242 56 3 30 0 0 -1 -1
+P 300 500 700 500 1 0 0
+{
+T -640 300 5 10 0 0 0 0 1
+pintype=pas
+T 500 450 9 10 0 1 0 8 1
+pinlabel=1
+T 500 550 5 10 0 1 0 6 1
+pinnumber=1
+T -500 550 5 10 0 0 0 0 1
+pinseq=1
+}
+P 1100 500 700 500 1 0 0
+{
+T 1200 350 5 10 0 0 0 0 1
+pintype=pas
+T 900 450 9 10 0 1 0 2 1
+pinlabel=2
+T 900 550 5 10 0 1 0 0 1
+pinnumber=2
+T 1200 550 5 10 0 0 0 0 1
+pinseq=2
+}

@@ -1,0 +1,15 @@
+type=symbol
+software=gschem
+license/dist=GPL
+license/use=unlimited
+author=Edward Hennessy
+device=CONNECTOR
+description=2.54mm Pitch SL™ Header, Low Profile, Single Row, Right Angle, 3.05mm Pocket, Shrouded, 2 Circuits, Tin (Sn) Plating
+class=connector
+gender=male
+pins=2
+connector/orientation=right-angle
+copyright=(C) 2015 Edward Hennessy
+manufacturer/url=http://www.molex.com/molex/products/datasheet.jsp?part=active/0705530036_PCB_HEADERS.xml
+documentation=http://www.molex.com/pdm_docs/sd/705530036_sd.pdf
+manufacturer=Molex

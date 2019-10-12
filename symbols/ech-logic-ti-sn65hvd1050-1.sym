@@ -1,0 +1,75 @@
+v 20170226 2
+P 0 1900 300 1900 1 0 0
+{
+T -1000 1950 5 10 0 0 0 6 1
+pintype=pas
+T -100 1950 5 10 0 0 0 6 1
+pinseq=6
+T 358 1892 9 10 1 1 0 1 1
+pinlabel=CANL
+T 208 1942 5 10 1 1 0 6 1
+pinnumber=6
+}
+P 0 400 300 400 1 0 0
+{
+T -1000 450 5 10 0 0 0 6 1
+pintype=pas
+T -100 450 5 10 0 0 0 6 1
+pinseq=7
+T 358 392 9 10 1 1 0 1 1
+pinlabel=CANH
+T 208 442 5 10 1 1 0 6 1
+pinnumber=7
+}
+P 2200 1900 1900 1900 1 0 0
+{
+T 3200 1950 5 10 0 0 0 0 1
+pintype=pas
+T 2300 1950 5 10 0 0 0 0 1
+pinseq=4
+T 1842 1892 9 10 1 1 0 7 1
+pinlabel=RXD
+T 1992 1942 5 10 1 1 0 0 1
+pinnumber=4
+}
+P 2200 400 1900 400 1 0 0
+{
+T 3200 450 5 10 0 0 0 0 1
+pintype=pas
+T 2300 450 5 10 0 0 0 0 1
+pinseq=8
+T 1842 392 9 10 1 1 0 7 1
+pinlabel=S
+T 1992 442 5 10 1 1 0 0 1
+pinnumber=8
+}
+P 2200 1600 1900 1600 1 0 0
+{
+T 3200 1650 5 10 0 0 0 0 1
+pintype=pas
+T 2300 1650 5 10 0 0 0 0 1
+pinseq=1
+T 1842 1592 9 10 1 1 0 7 1
+pinlabel=TXD
+T 1992 1642 5 10 1 1 0 0 1
+pinnumber=1
+}
+B 300 200 1600 1900 3 10 1 0 -1 -1 0 -1 -1 -1 -1 -1
+T 305 2144 5 10 1 1 0 0 1
+refdes=J?
+T 295 3700 8 10 0 0 0 0 1
+author=Edward Hennessy
+T 295 3500 8 10 0 0 0 0 1
+copyright=(C) 2017 Edward Hennessy
+T 295 3300 8 10 0 0 0 0 1
+dist-license=GPL
+T 295 3100 8 10 0 0 0 0 1
+use-license=Unlimited
+T 295 2695 8 10 0 0 0 0 1
+device=IC
+T 295 2495 8 10 0 0 0 0 1
+description=High-Speed CAN Transceiver with Silent Mode
+T 305 -206 5 10 1 1 0 0 1
+footprint=SOIC-8
+T 305 -6 5 10 1 1 0 0 1
+value=SN65HVD1050

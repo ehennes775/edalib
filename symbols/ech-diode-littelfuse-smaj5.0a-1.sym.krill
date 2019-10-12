@@ -1,0 +1,13 @@
+type=symbol
+software=gschem
+license/dist=GPL
+license/use=unlimited
+author=Edward Hennessy
+device=DIODE
+description=Diode, TVS, Littelfuse, SMAJ5.0A
+copyright=(C) 2015 Edward Hennessy
+class=diode
+pins=2
+symbol/orientation=vertical
+manufacturer/url=http://www.littelfuse.com/products/tvs-diodes/surface-mount/smaj/smaj5_0.aspx
+documentation=http://www.littelfuse.com/~/media/electronics/datasheets/tvs_diodes/littelfuse_tvs_diode_smaj_datasheet.pdf.pdf
