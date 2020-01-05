@@ -2,7 +2,7 @@
     "description": "Diode, TVS, Unidirectional, $(value), SOD-123FL",
     "footprints": [
         "ech-diode-sod-123fl.fp"
-    ]
+    ],
     "groups": [
         {
             "value": "3.3 V",

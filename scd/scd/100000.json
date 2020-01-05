@@ -2,7 +2,7 @@
     "description": "Resistor, Thick film, $(value), 1%, 0.1W, 0603",
     "footprints"  : [
         "ech-resistor-0603.fp"
-    ]
+    ],
     "groups": [
         {
             "value": "100 Ω",

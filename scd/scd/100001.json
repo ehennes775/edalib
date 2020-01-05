@@ -2,7 +2,7 @@
     "description": "Diode, TVS, Unidirectional, $(value), SMA",
     "footprints": [
         "ech-diode-sma.fp"
-    ]
+    ],
     "groups": [
         {
             "value": "5 V",
