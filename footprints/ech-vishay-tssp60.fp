@@ -14,4 +14,5 @@ Element["" "Sensor, IR" "U1" "" 0.0mm 0.0mm -2.25mm 4.55mm 0 100 ""]
 	Attribute("copyright" "(C) 2019 Edward Hennessy")
 	Attribute("dist-license" "GPL")
 	Attribute("use-license" "Unlimited")
+	Attribute("description" "Receiver, Infrared, Vishay, Panhead, Horizontal")
 	)
