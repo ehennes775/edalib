@@ -1,0 +1,25 @@
+{
+    "description": "Connector, Micro-Fit, Vertical, 6 ckt",
+    "footprints": [
+        "ech-connector-molex-43045-vertical-6ckt.fp"
+    ],
+    "groups": [
+        {
+            "value": "",
+            "parts": [
+                {
+                    "m": "Molex",
+                    "p": "43045-0612"
+                },
+                {
+                    "m": "Molex",
+                    "p": "43045-0624"
+                },
+                {
+                    "m": "Molex",
+                    "p": "43045-0627"
+                }
+            ]
+        }
+    ]
+}

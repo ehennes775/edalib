@@ -1,0 +1,15 @@
+{
+    "description": "LED, IR, 940 nm",
+    "footprints": [
+    ],
+    "groups": [
+        {
+            "parts": [
+                {
+                    "m": "Vishay",
+                    "p": "VSMB2943GX01"
+                }
+            ]
+        }
+    ]
+}

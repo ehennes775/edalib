@@ -1,0 +1,20 @@
+{
+    "description": "Capacitor, Ceramic, $(value), 50 V, X7R, 0805",
+    "notes": [
+        "Ceramic capacitor for decoupling"
+    ],
+    "footprints": [
+        "capacitor-0805-nom.fp"
+    ],
+    "groups": [
+        {
+            "value": "1.0 µF",
+            "parts": [
+                {
+                    "m": "KEMET",
+                    "p": "C0805C105M5RACTU"
+                }
+            ]
+        }
+    ]
+}

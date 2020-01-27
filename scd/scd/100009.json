@@ -1,0 +1,17 @@
+{
+    "description": "IC, Regulator, Linear, $(value), 150 mA, SOT23-5",
+    "footprints": [
+        "ic-sot-23-5pin.fp"
+    ],
+    "groups": [
+        {
+            "value": "3.3 V",
+            "parts": [
+                {
+                    "m": "TI",
+                    "p": "TLV70433DBV"
+                }
+            ]
+        }
+    ]
+}

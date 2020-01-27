@@ -1,0 +1,20 @@
+{
+    "description": "Capacitor, Ceramic, $(value), 24 V, X7R, 0603",
+    "notes": [
+        "Ceramic capacitor for decoupling"
+    ],
+    "footprints": [
+        "capacitor-0603-nom.fp"
+    ],
+    "groups": [
+        {
+            "value": "1.0 µF",
+            "parts": [
+                {
+                    "m": "KEMET",
+                    "p": "C0603C105M3RACTU"
+                }
+            ]
+        }
+    ]
+}

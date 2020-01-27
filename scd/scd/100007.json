@@ -1,0 +1,18 @@
+{
+    "description": "Sensor, Remote Receiver, 38.0 kHz, 2 M",
+    "footprints": [
+        "ech-vishay-tssp60.fp",
+        "ech-vishay-tssp60-vertical.fp"
+    ],
+    "groups": [
+        {
+            "value": "TSSP6038",
+            "parts": [
+                {
+                    "m": "Vishay",
+                    "p": "TSSP6038TT"
+                }
+            ]
+        }
+    ]
+}
