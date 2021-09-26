@@ -1,0 +1,70 @@
+v 20200319 2
+T 1550 3200 8 10 1 1 0 2 1
+refdes=U?
+T 1550 400 8 10 1 1 0 0 1
+value=SN74LVC1G123
+T 1550 200 8 10 1 1 0 0 1
+package=SM8
+T 1595 2500 8 10 0 0 0 1 1
+device=IC
+T 1595 2100 8 10 0 0 0 1 1
+footprint=$(Footprint)
+T 1595 1600 8 10 0 0 0 1 1
+author=Edward Hennessy
+T 1595 1400 8 10 0 0 0 1 1
+copyright=(C) 2021 Edward Hennessy
+T 1595 1200 8 10 0 0 0 1 1
+dist-license=GPL
+T 1595 1000 8 10 0 0 0 1 1
+use-license=Unlimited
+T 1595 2300 8 10 0 0 0 1 1
+description=IC, SN74LVC1G123, SM8
+T 1595 1900 8 10 0 0 0 1 1
+numslots=0
+T 1595 2700 8 10 0 0 0 1 1
+class=IC
+P 0 2500 300 2500 1 0 0
+{
+T -100 2500 5 10 0 0 0 8 1
+pintype=pas
+T -100 2550 5 10 0 0 0 6 1
+pinseq=7
+T 358 2492 9 10 1 1 0 1 1
+pinlabel=REXT/CEXT
+T 208 2542 5 10 1 1 0 6 1
+pinnumber=7
+}
+P 0 900 300 900 1 0 0
+{
+T -100 900 5 10 0 0 0 8 1
+pintype=pas
+T -100 950 5 10 0 0 0 6 1
+pinseq=6
+T 358 892 9 10 1 1 0 1 1
+pinlabel=CEXT
+T 208 942 5 10 1 1 0 6 1
+pinnumber=6
+}
+P 900 3500 900 3200 1 0 0
+{
+T 950 3600 5 10 0 0 90 2 1
+pintype=pwr
+T 850 3600 5 10 0 0 90 0 1
+pinseq=8
+T 908 3142 9 10 1 1 90 7 1
+pinlabel=VCC
+T 858 3292 5 10 1 1 90 0 1
+pinnumber=8
+}
+P 900 0 900 200 1 0 0
+{
+T 900 -100 5 10 0 0 90 8 1
+pintype=pwr
+T 850 -100 5 10 0 0 90 6 1
+pinseq=4
+T 908 258 9 10 1 1 90 1 1
+pinlabel=GND
+T 858 108 5 10 1 1 90 6 1
+pinnumber=4
+}
+B 300 200 1200 3000 3 10 1 0 -1 -1 0 -1 -1 -1 -1 -1
